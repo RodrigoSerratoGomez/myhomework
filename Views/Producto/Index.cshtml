@@ -1,0 +1,30 @@
+@model myhomework.Models.Producto
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nuevo Producto</title>
+</head>
+<body>
+    <h1>Ingresa tu Nuevo Producto!!!</h1><br>
+    <form asp-controller="Producto" asp-action="GenerarProducto">
+        <label>Nombre del Producto:</label><br>
+        <input asp-for="Nombre" class="form-control"><br>
+        <label>Peso del Producto:</label><br>
+        <input asp-for="Peso" class="form-control"><br>
+        <label>Unidad de Peso:</label><br>
+        <select asp-for="Unidad" class="form-control"><br>
+            <option value="kg">kg</option>
+            <option value="lt">lt</option>
+            <option value="gr">gr</option>
+            <option value="pqt">pqt</option>
+        </select><br>
+        <label>Precio del Producto:</label><br>
+        <input asp-for="Precio" class="form-control"><br>
+        <button type="submit" class="btn btn-primary">Calcular Total</button> 
+    </form><br>
+    <h1>@ViewData["Message"]</h1>
+</body>
+</html>
