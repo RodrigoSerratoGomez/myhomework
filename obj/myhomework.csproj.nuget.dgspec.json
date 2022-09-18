@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\S_O_A\\Documents\\Ingenieria de Computacion y Sistemas\\6° Sexto Ciclo Ing Sistemas\\Programacion I\\Laboratorio\\Lab01-Tarea\\myhomework\\myhomework.csproj": {}
+    "c:\\Users\\S_O_A\\Documents\\Ingenieria de Computacion y Sistemas\\6° Sexto Ciclo Ing Sistemas\\Programacion I\\Laboratorio\\Tareas\\Lab01-Tarea\\myhomework\\myhomework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\S_O_A\\Documents\\Ingenieria de Computacion y Sistemas\\6° Sexto Ciclo Ing Sistemas\\Programacion I\\Laboratorio\\Lab01-Tarea\\myhomework\\myhomework.csproj": {
+    "c:\\Users\\S_O_A\\Documents\\Ingenieria de Computacion y Sistemas\\6° Sexto Ciclo Ing Sistemas\\Programacion I\\Laboratorio\\Tareas\\Lab01-Tarea\\myhomework\\myhomework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\S_O_A\\Documents\\Ingenieria de Computacion y Sistemas\\6° Sexto Ciclo Ing Sistemas\\Programacion I\\Laboratorio\\Lab01-Tarea\\myhomework\\myhomework.csproj",
+        "projectUniqueName": "c:\\Users\\S_O_A\\Documents\\Ingenieria de Computacion y Sistemas\\6° Sexto Ciclo Ing Sistemas\\Programacion I\\Laboratorio\\Tareas\\Lab01-Tarea\\myhomework\\myhomework.csproj",
         "projectName": "myhomework",
-        "projectPath": "C:\\Users\\S_O_A\\Documents\\Ingenieria de Computacion y Sistemas\\6° Sexto Ciclo Ing Sistemas\\Programacion I\\Laboratorio\\Lab01-Tarea\\myhomework\\myhomework.csproj",
+        "projectPath": "c:\\Users\\S_O_A\\Documents\\Ingenieria de Computacion y Sistemas\\6° Sexto Ciclo Ing Sistemas\\Programacion I\\Laboratorio\\Tareas\\Lab01-Tarea\\myhomework\\myhomework.csproj",
         "packagesPath": "C:\\Users\\S_O_A\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\S_O_A\\Documents\\Ingenieria de Computacion y Sistemas\\6° Sexto Ciclo Ing Sistemas\\Programacion I\\Laboratorio\\Lab01-Tarea\\myhomework\\obj\\",
+        "outputPath": "c:\\Users\\S_O_A\\Documents\\Ingenieria de Computacion y Sistemas\\6° Sexto Ciclo Ing Sistemas\\Programacion I\\Laboratorio\\Tareas\\Lab01-Tarea\\myhomework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\S_O_A\\AppData\\Roaming\\NuGet\\NuGet.Config"
