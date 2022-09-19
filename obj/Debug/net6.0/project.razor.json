@@ -16298,6 +16298,11 @@
   "RootNamespace": "myhomework",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\S_O_A\\Documents\\Ingenieria de Computacion y Sistemas\\6° Sexto Ciclo Ing Sistemas\\Programacion I\\Laboratorio\\Tareas\\Lab01-Tarea\\myhomework\\ejemplo\\ejemplo.cshtml",
+      "TargetPath": "ejemplo\\ejemplo.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\S_O_A\\Documents\\Ingenieria de Computacion y Sistemas\\6° Sexto Ciclo Ing Sistemas\\Programacion I\\Laboratorio\\Tareas\\Lab01-Tarea\\myhomework\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
